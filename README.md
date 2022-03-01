@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I am Blanker. 
+I am Blanker.
 
 #### Statistics
 
@@ -9,7 +9,6 @@ I am Blanker.
 #### Ping me at
 
 - Telegram: @BlankerLin
-
 - Discord: Blanker#6666
 
 #### Speaking
